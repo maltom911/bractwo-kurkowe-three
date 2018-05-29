@@ -39,10 +39,11 @@ h2, h3 {
 }
 
 .header-menu-container {
-    background-image: url(../img/header-photo/I_41.jpg);
+    background-image: url(../img/header-photo/kur.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
+    background-position: 100% 80%;
 }
 
 
